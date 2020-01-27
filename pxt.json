@@ -1,0 +1,22 @@
+{
+    "name": "xChip",
+    "version": "1.0.2",
+    "description": "XinaBox xChip",
+    "authors": [
+        "Luqmaan Baboo"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "core": "file:../core"
+    },
+    "files": [
+        "README.md",
+        "xChip.h",
+        "xChip.cpp",
+        "xChip.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
